@@ -17,7 +17,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - 🧹 Auto `/data/system/package_cache/*` cleanup on install
 - 🎨 Custom ASCII banner + styled flashing UI
 - ✅ Support for **Magisk v20.4+**, **KernelSU**, **APatch**
-- 📝 Complete documentation (README.md, CHANGELOG.md, update.json)
 
 ### Credits
 - 💡 Idea & concept by **ShelbyProject** 🤟
