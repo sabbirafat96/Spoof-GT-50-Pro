@@ -36,7 +36,7 @@
 | Device | `Infinix-X6891` |
 | Codename | `X6891-OP` |
 | FPS Unlock | up to `144Hz` |
-| Anti-Crack Support | `0` |
+| Anti-Crack Support | `Yes` |
 
 ---
 
@@ -69,9 +69,8 @@ getprop ro.product.device
 Expected output:
 
 ```
-Infinix X6891
-INFINIX
-Infinix-X6891
+INFINIX X6891
+INFINIX GT 50 Pro
 ```
 
 ---
