@@ -121,24 +121,6 @@ INFINIX GT 50 Pro
 
 ---
 
-## 📁 Module Structure
-
-```
-Spoof-GT50Pro/
-├── META-INF/com/google/android/
-│   ├── update-binary
-│   └── updater-script
-├── customize.sh
-├── module.prop
-├── system.prop
-├── update.json
-├── README.md
-├── CHANGELOG.md
-└── LICENSE
-```
-
----
-
 ## 🙏 Credits
 
 - 💡 **Original Idea & Concept** → **ShelbyProject** 🤟
@@ -160,5 +142,5 @@ Spoof-GT50Pro/
 **Made with ❤️ by Sabbir Senpai**
 
 ⭐ **Star this repo if it helped you!**
-
+<img src="banner.png" alt="Banner" width="100%">
 </div>
