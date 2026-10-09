@@ -4,7 +4,7 @@
 
 **Turn your rooted Android device into an Infinix GT 50 Pro — unlock FPS up to 144.**
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v0.1-blue?style=for-the-badge)
 ![Author](https://img.shields.io/badge/author-Sabbir%20Senpai-purple?style=for-the-badge)
 ![Credit](https://img.shields.io/badge/credit-ShelbyProject-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Magisk%20%7C%20KernelSU%20%7C%20APatch-red?style=for-the-badge)
@@ -36,7 +36,7 @@
 | Device | `Infinix-X6891` |
 | Codename | `X6891-OP` |
 | FPS Unlock | up to `144Hz` |
-| Anti-Crack Support | `Yes` |
+| Anti-Crack | `Disable` |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### Requirements
 - Rooted device with **Magisk v20.4+**, **KernelSU**, or **APatch**
-- Android 8.0 or higher
+- Android 12 or higher
 
 ### Steps
 1. Download the latest `.zip` from [**Releases**](../../releases/latest)
