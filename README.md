@@ -141,6 +141,8 @@ INFINIX GT 50 Pro
 
 **Made with ❤️ by Sabbir Senpai**
 
-⭐ **Star this repo if it helped you!**
+⭐ **Star this repo if it helped you!** ⭐
+
 <img src="banner.png" alt="Banner" width="100%">
+
 </div>
